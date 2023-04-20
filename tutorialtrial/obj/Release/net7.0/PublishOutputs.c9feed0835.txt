@@ -1,0 +1,7 @@
+/Users/mus/Desktop/CS190/tutorialtrial/tutorialtrial/obj/Release/net7.0/PubTmp/Out/tutorialtrial
+/Users/mus/Desktop/CS190/tutorialtrial/tutorialtrial/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/mus/Desktop/CS190/tutorialtrial/tutorialtrial/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/mus/Desktop/CS190/tutorialtrial/tutorialtrial/obj/Release/net7.0/PubTmp/Out/tutorialtrial.dll
+/Users/mus/Desktop/CS190/tutorialtrial/tutorialtrial/obj/Release/net7.0/PubTmp/Out/tutorialtrial.deps.json
+/Users/mus/Desktop/CS190/tutorialtrial/tutorialtrial/obj/Release/net7.0/PubTmp/Out/tutorialtrial.runtimeconfig.json
+/Users/mus/Desktop/CS190/tutorialtrial/tutorialtrial/obj/Release/net7.0/PubTmp/Out/tutorialtrial.pdb
